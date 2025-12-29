@@ -27,4 +27,5 @@ iPhoneをApple Storeの展示機（デモ機）のように変える、SwiftUI�
 - 動画ファイルは著作権の関係上、リポジトリには含まれていません。
 
 ## 📝 ライセンス
+[MIT License](LICENSE)
 (c)Jintaro Nishihata 2025
